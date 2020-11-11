@@ -24,7 +24,10 @@ Check also [Prerequistes here](https://github.com/avatsaev/angular-learning-reso
 [TypeORM official Github page](https://github.com/typeorm/typeorm)
 [TypeORM official doc](https://typeorm.io/#/)
 
-## server
+## GraphQL
+[Introduction to GraphQL](https://graphql.org/learn/)
+
+## Server
 ### Apollo
 [Get started with Apollo Server](https://www.apollographql.com/docs/apollo-server/getting-started/#gatsby-focus-wrapper)
 
