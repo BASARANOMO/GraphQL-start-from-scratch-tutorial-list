@@ -16,7 +16,7 @@ Check also [Prerequistes here](https://github.com/avatsaev/angular-learning-reso
 ### PostreSQL
 [Learn PostgreSQL from scratch](https://www.postgresqltutorial.com/)
 
-## Database Access
+## Database access
 ### prisma
 [Prisma start from scratch](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch-sql-typescript-postgres)
 
